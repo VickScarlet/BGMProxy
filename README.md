@@ -1,0 +1,2 @@
+# BGMProxy
+Bangumi Proxy Project
